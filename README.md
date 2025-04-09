@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aymensmd
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Machine Learnin & AI development
-- 📫 How to reach me aymensamoud3@gmail.com
+- 📫 How to reach me aymen.sammoud.co@gmail.com
 
 
 <!---
