@@ -1,6 +1,6 @@
 # Hi there, I'm Aymen Sammoud 👋
 
-**Web & Mobile Developer | Student (Tek-Up) | E-Business background**
+**Web Developer | Student (Tek-Up) | E-Business background**
 
 I'm a motivated developer based in Tunis, Tunisia. I study **Engineering in Computer Science (evening classes) at Tek-Up** and hold a **Licence in Applied Computer Science for Management — E-Business**.  
 I build practical projects, automate workflows, and enjoy turning ideas into working apps.
