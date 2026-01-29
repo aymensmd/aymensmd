@@ -28,8 +28,7 @@ I build practical projects, automate workflows, and enjoy turning ideas into wor
 
 ### Dashboard / Admin App
 A full admin dashboard for managing tasks and teams — analytics and role-based features.  
-Link: https://admin-dash-jdn3w0o86-aymen-sammouds-projects.vercel.app/
-
+Link: https://precious-encouragement-production.up.railway.app/welcome
 ### API & Machine Learning (2024)
 An API for predictive analytics with a frontend integration (Angular).  
 Technologies: Flask, TensorFlow, Keras
